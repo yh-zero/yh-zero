@@ -8,7 +8,7 @@
 
 <!--<img align='right' src="https://cdn.jsdelivr.net/gh/eternidad33/picbed/img/883711.jpg" width="230">-->
 
-- 😎**前端** html、css、JavaScript、Jquery、vue、uni-app、react
+- 😎**前端** html、css、JavaScript、Jquery、vue、uni-app、react、TypeScript
 - 😎**UI库** Bootstrap、layUI、elementUI、uview、ant design
 - 😄**后端** Golang、go-zero、gin
 - 😆**数据库** MySQL、Redis、MongoDB
