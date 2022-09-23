@@ -13,11 +13,6 @@
 - 😄**后端** Golang、go-zero、gin
 - 😆**数据库** MySQL、Redis、MongoDB
 
-### 
-
-- 🏠 [http://www.maxiaozhai.com](http://www.maxiaozhai.com) 个人小站.
-- 📖 学习方向:工业互联网，云计算，云原生，边缘计算
-- 👨🏽‍💻 Java工程师，网络工程师，系统架构师，云原生开发者
-
+###
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yh-zero)](https://github-readme-stats.vercel.app/api?username=yh-zero)
