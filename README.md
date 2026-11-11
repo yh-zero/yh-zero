@@ -19,7 +19,6 @@
 | **AI Agent 与大模型应用** | Eino、Agent 工作流、工具调用（Tool Calling）、Prompt Engineering |
 | **知识库与 RAG** | 文档解析与切分、Embedding、Qdrant 向量检索、检索增强生成（RAG） |
 | **数据、缓存与对象存储** | MySQL、PostgreSQL、Redis、MongoDB、RustFS、S3 兼容对象存储 |
-| **数据处理与检索** | Pandas、NumPy、Elasticsearch |
 | **前端基础** | HTML5、CSS3、JavaScript、TypeScript、响应式布局 |
 | **前端框架与工程化** | Vue、React、Next.js、Nuxt、Vite、Webpack、uni-app |
 | **UI 与样式** | Tailwind CSS、Bootstrap、Element Plus、Ant Design、uView |
