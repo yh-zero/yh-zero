@@ -1,18 +1,33 @@
-<h2 align="center">👋 Welcome to My GitHub</h2>
-<p align="center">
-  <a href="https://github.com/yh-zero"><img src="https://img.shields.io/badge/GitHub-24292e" alt="github"></a>
-  <a href="https://github.com/yh-zero"><img src="https://img.shields.io/badge/home-1-orange" alt="home"></a>
-  <a href="https://github.com/yh-zero"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
-</p>
+<div align="center">
 
+# 👋 你好，我是 yh-zero
 
-<!--<img align='right' src="https://cdn.jsdelivr.net/gh/eternidad33/picbed/img/883711.jpg" width="230">-->
+**关注 Web 前端与 Go 后端开发**
 
-- 😎**前端** html、css、JavaScript、Jquery、vue、uni-app、react、TypeScript
-- 😎**UI库** Bootstrap、layUI、elementUI、uview、ant design
-- 😄**后端** Golang、go-zero、gin、gorm、casbin、jwt
-- 😆**数据库** MySQL、Redis、MongoDB
+[![GitHub](https://img.shields.io/badge/GitHub-yh--zero-181717?style=flat-square&logo=github)](https://github.com/yh-zero)
 
-###
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yh-zero)](https://github-readme-stats.vercel.app/api?username=yh-zero)
+---
+
+### 🧰 技术栈
+
+| 方向 | 技术与工具 |
+| --- | --- |
+| **前端** | HTML、CSS、JavaScript、TypeScript、jQuery、Vue、React、uni-app |
+| **UI 与组件库** | Bootstrap、Layui、Element UI、uView、Ant Design |
+| **后端** | Go、go-zero、Gin、GORM、Casbin、JWT |
+| **数据库与缓存** | MySQL、Redis、MongoDB |
+
+### 📊 GitHub 数据
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yh-zero&show_icons=true&hide_border=true&include_all_commits=true" alt="yh-zero 的 GitHub 统计" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yh-zero&layout=compact&hide_border=true" alt="yh-zero 常用语言" />
+</div>
+
+---
+
+<div align="center">
+  <sub>感谢来访，欢迎交流与关注 👋</sub>
+</div>
