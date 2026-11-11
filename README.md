@@ -20,9 +20,10 @@
 | **Go 后端** | Go、go-zero、Gin、GORM、Casbin、JWT、RESTful API |
 | **Python 后端** | Python、FastAPI、Django、Flask、SQLAlchemy、Pydantic |
 | **AI Agent 与大模型应用** | Eino、Agent 工作流、工具调用（Tool Calling）、Prompt Engineering |
-| **知识库与 RAG** | 文档解析与切分、Embedding、向量检索、检索增强生成（RAG） |
+| **知识库与 RAG** | 文档解析与切分、Embedding、Qdrant 向量检索、检索增强生成（RAG） |
+| **对象存储** | RustFS、S3 兼容对象存储 |
 | **数据库与缓存** | MySQL、PostgreSQL、Redis、MongoDB |
-| **数据处理与检索** | Pandas、NumPy、Elasticsearch、向量数据库 |
+| **数据处理与检索** | Pandas、NumPy、Elasticsearch |
 | **开发与部署** | Git、Linux、Docker、Nginx、CI/CD |
 
 ### 📊 GitHub 数据
