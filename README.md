@@ -2,7 +2,7 @@
 
 # 👋 你好，我是 yh-zero
 
-**关注 Web 前端与 Go 后端开发**
+**关注 Web 全栈开发与 Go AI Agent 应用**
 
 [![GitHub](https://img.shields.io/badge/GitHub-yh--zero-181717?style=flat-square&logo=github)](https://github.com/yh-zero)
 
@@ -17,6 +17,8 @@
 | **前端** | HTML、CSS、JavaScript、TypeScript、jQuery、Vue、React、uni-app |
 | **UI 与组件库** | Bootstrap、Layui、Element UI、uView、Ant Design |
 | **后端** | Go、go-zero、Gin、GORM、Casbin、JWT |
+| **AI Agent 与大模型应用** | Go、Eino、Agent 工作流、工具调用（Tool Calling）、Prompt Engineering |
+| **知识库与 RAG** | 知识库构建、文档解析与切分、Embedding、向量检索、RAG 检索增强生成 |
 | **数据库与缓存** | MySQL、Redis、MongoDB |
 
 ### 📊 GitHub 数据
