@@ -2,7 +2,7 @@
 
 # 👋 你好，我是 yh-zero
 
-**关注 Web 全栈开发与 Go AI Agent 应用**
+**关注全栈开发、Go/Python 后端与 AI Agent 应用**
 
 [![GitHub](https://img.shields.io/badge/GitHub-yh--zero-181717?style=flat-square&logo=github)](https://github.com/yh-zero)
 
@@ -10,16 +10,20 @@
 
 ---
 
-### 🧰 技术栈
+### 🧰 技术栈与关注方向
 
 | 方向 | 技术与工具 |
 | --- | --- |
-| **前端** | HTML、CSS、JavaScript、TypeScript、jQuery、Vue、React、uni-app |
-| **UI 与组件库** | Bootstrap、Layui、Element UI、uView、Ant Design |
-| **后端** | Go、go-zero、Gin、GORM、Casbin、JWT |
-| **AI Agent 与大模型应用** | Go、Eino、Agent 工作流、工具调用（Tool Calling）、Prompt Engineering |
-| **知识库与 RAG** | 知识库构建、文档解析与切分、Embedding、向量检索、RAG 检索增强生成 |
-| **数据库与缓存** | MySQL、Redis、MongoDB |
+| **前端基础** | HTML5、CSS3、JavaScript、TypeScript、响应式布局 |
+| **前端框架与工程化** | Vue、React、Next.js、Nuxt、Vite、Webpack、uni-app |
+| **UI 与样式** | Tailwind CSS、Bootstrap、Element Plus、Ant Design、uView |
+| **Go 后端** | Go、go-zero、Gin、GORM、Casbin、JWT、RESTful API |
+| **Python 后端** | Python、FastAPI、Django、Flask、SQLAlchemy、Pydantic |
+| **AI Agent 与大模型应用** | Eino、Agent 工作流、工具调用（Tool Calling）、Prompt Engineering |
+| **知识库与 RAG** | 文档解析与切分、Embedding、向量检索、检索增强生成（RAG） |
+| **数据库与缓存** | MySQL、PostgreSQL、Redis、MongoDB |
+| **数据处理与检索** | Pandas、NumPy、Elasticsearch、向量数据库 |
+| **开发与部署** | Git、Linux、Docker、Nginx、CI/CD |
 
 ### 📊 GitHub 数据
 
