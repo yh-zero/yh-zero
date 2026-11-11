@@ -24,13 +24,6 @@
 | **UI 与样式** | Tailwind CSS、Bootstrap、Element Plus、Ant Design、uView |
 | **开发与部署** | Git、Linux、Docker、Nginx、CI/CD |
 
-### 📊 GitHub 数据
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yh-zero&show_icons=true&hide_border=true&include_all_commits=true" alt="yh-zero 的 GitHub 统计" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yh-zero&layout=compact&hide_border=true" alt="yh-zero 常用语言" />
-</div>
-
 ---
 
 <div align="center">
